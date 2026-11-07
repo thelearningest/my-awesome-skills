@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quiz From File"
+  short_description: "Big-picture quizzes with gradual hints"
+  default_prompt: "Use $quiz-from-file to quiz me on the PDF or text file I provide."
